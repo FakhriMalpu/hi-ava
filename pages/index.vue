@@ -160,6 +160,7 @@ export default {
 </script>
 
 <style lang="scss">
+@import "~/assets/css/animation.scss";
 @import "~/assets/css/background.scss";
 @import "~/assets/css/main.scss";
 </style>
