@@ -25,7 +25,7 @@
     />
 
     <!-- Audio file -->
-    <audio src="~/assets/img/musics.mp3" autoplay controls loop />
+    <audio src="~/assets/lagu_ini.mp3" autoplay controls loop />
 
     <!-- Main -->
     <div class="main">
