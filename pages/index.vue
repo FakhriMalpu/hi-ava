@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Have a nice dream.... ^2500', 'sleepwell 🖤']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Have a nice dream.... ^2500', 'sleepwell 🖤 ^2000']"
         :backDelay="500"
         :typeSpeed="100"
         :backSpeed="20"
