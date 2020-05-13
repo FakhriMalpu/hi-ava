@@ -1,10 +1,10 @@
 export default {
-  nicknames: ["Ajengg", "Hun", "Huneyy", "Sayang", "Ma Gurllll"],
+  nicknames: ["Ajengg ♥", "Hun ♥", "Huneyy ♥", "Sayang ♥", "Ma Gurllll ♥"],
   greetings: {
-    evening: "Good Evening",
-    afternoon: "Selamat Berbuka",
+    evening: "Selamat Berbuka",
+    afternoon: "Good Afternoon",
     day: "Great Day",
-    morning: "Pagi hunnn &#128420;",
+    morning: "Pagi hunnn",
     night: "Good Night"
   }
 };
