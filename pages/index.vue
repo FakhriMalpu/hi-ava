@@ -38,7 +38,7 @@
         class="vue-typed"
         :showCursor="false"
         :loop="true"
-        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Have a great Thursday! ^2500', 'semangatttt!!! 🖤 ^2000']"
+        :strings="[greetings() + ', ' + nicknames + '! ^5000', 'Selamat menikmati hidangan berbukanya.... ^2500', 'segarsegarrrr! 🖤 ^2000']"
         :backDelay="500"
         :typeSpeed="100"
         :backSpeed="20"
